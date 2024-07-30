@@ -1,6 +1,8 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm ABHISHEK MAURYA</h1>
 <h3 align="center">A passionate tech learner from India</h3>
-
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3y9zLfU2BjPEuuFe_reb55&ust=1722412696995000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCpsNylzocDFQAAAAAdAAAAABAJ">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adminabhishek" alt="adminabhishek" /></a> </p>
 
 - 🌱 I’m currently learning **javascript ,react.js**
